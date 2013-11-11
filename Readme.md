@@ -14,7 +14,7 @@
 ```js
 var ast = acorn.parse(js);
 walk(ast, function(node) {
-  console.log(node.parent);
+  console.log(node.parentNode);
   // ...
 });
 ```
@@ -23,7 +23,7 @@ walk(ast, function(node) {
 
 ### walk(ast, fn)
 
-Walk all the nodes of the AST. Adds a reference to the parent under `node.parent`. Function `fn` called for each node.
+Walk all the nodes of the AST. Adds a reference to the parent under `node.parentNode`. Function `fn` called for each node.
 
 ## License
 
