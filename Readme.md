@@ -1,7 +1,7 @@
 
 # walk-ast
 
-  Walk the ast for the acorn parser. Includes references to the parent nodes for traversal. Uses a depth-first search.
+  Properly walk the Javascript AST. Includes references to the parent nodes for traversal. Uses a depth-first search.
 
   Largely based off of Marijnh's acorn walk utility: https://github.com/marijnh/acorn/blob/master/util/walk.js
 
