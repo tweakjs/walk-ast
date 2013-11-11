@@ -1,6 +1,6 @@
 {
   "name": "walk-ast",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "walk the ast for the acorn parser",
   "keywords": [],
   "author": "Matthew Mueller <mattmuelle@gmail.com>",
