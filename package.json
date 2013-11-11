@@ -1,0 +1,13 @@
+{
+  "name": "walk-ast",
+  "version": "0.0.1",
+  "description": "walk the ast for the acorn parser",
+  "keywords": [],
+  "author": "Matthew Mueller <mattmuelle@gmail.com>",
+  "repository": { "type": "git", "url": "git://github.com/MatthewMueller/walk-ast.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "acorn": "*"
+  },
+  "main": "lib/walk"
+}
