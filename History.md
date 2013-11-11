@@ -2,7 +2,8 @@
 0.0.2 / 2013-11-10
 ==================
 
- * parent => parentNode
+  * exports => module.exports
+  * parent => parentNode
 
 0.0.1 / 2010-01-03
 ==================
